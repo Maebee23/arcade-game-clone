@@ -12,7 +12,7 @@ The Arcade Game Clone is project 3 of Udacity's Front-End Web Development Nanode
 
 ## Instructions
 
-The goal of the game to reach the water without being hit by a lady bug, and collect as many stars as you can. If you are hit, your progress is reset and you lose a life. You continue to increase your star total with each win. If you are hit 3 times the game is over and your star total is reset.
+To play simply click on your desired character and click start. Using the arrow keys, move your character across the board and try to reach the water without being hit by a ladybug, and collect as many stars as you can along the way. If you are hit, your progress is reset and you lose a life. You continue to increase your star total with each win. If you are hit 3 times the game is over and your star total is reset.
 
 ## Requirements
 
@@ -24,7 +24,7 @@ To play the game you can download this repository, and open the HTML file to pla
 
 ## Authors
 
-This project is part of Udacity's Front-End Web Development Nanodegree, and starter code found [here](https://github.com/udacity/frontend-nanodegree-arcade-game) is provided to all FEND students. To complete this project, I provided functionality using Object Oriented Programming, and styling.
+This project is part of Udacity's Front-End Web Development Nanodegree, and starter code found [here](https://github.com/udacity/frontend-nanodegree-arcade-game) is provided to all FEND students. To complete this project, I provided functionality using Object Oriented Programming, and styling using CSS.
 
 ## Acknowledgements
 
