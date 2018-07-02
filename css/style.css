@@ -73,7 +73,7 @@ h2 {
   z-index: 2;
 }
 
-.end-display h1{
+.end-display h1 {
   color: #DF4100;
   font-size: 40px;
 }
@@ -132,9 +132,7 @@ button:hover {
   border: 2px solid white;
 }
 
-.win h1{
+.win h1 {
   color: #5971D9;
   font-size: 40px;
 }
-
-.continue {}
