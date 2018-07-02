@@ -2,7 +2,7 @@
 
 The Arcade Game Clone is project 3 of Udacity's Front-End Web Development Nanodegree. Students are required to create a working Frogger style game using Object Oriented Programming.
 
-##Table of Contents
+## Table of Contents
 
 * [Instructions](#instructions)
 * [Requirements](#requirements)
@@ -16,7 +16,7 @@ To play simply click on your desired character and click start. Using the arrow 
 
 ## Requirements
 
-To play the game you can download this repository, and open the HTML file to play the game in your browser, or simply follow this [link](https://maebee23.github.io/arcade-game-clone/)
+To play the game you can download this repository, and open the HTML file to play the game in your browser, or simply follow this [link](https://maebee23.github.io/arcade-game-clone/).
 
 ## Dependencies
 
