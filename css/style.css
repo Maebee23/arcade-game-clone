@@ -90,6 +90,7 @@ h2 {
 
 .end-display {
   padding: 2em;
+  max-height: 600px;
   grid-column-start: 3;
   grid-row-start: 2;
   grid-row-end: 4;
@@ -123,6 +124,7 @@ button:hover {
 
 .win {
   padding: 2em;
+  max-height: 600px;
   grid-column-start: 3;
   grid-row-start: 2;
   grid-row-end: 4;
