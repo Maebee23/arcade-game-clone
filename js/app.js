@@ -32,14 +32,13 @@ class Character {
   }
   update(dt) {
     this.currentPos = 0;
+    //establish boundaries for player
     this.overX = this.x >= numCols;
     this.overY = this.y >= numRows;
     this.underX = this.x <= -1;
     this.underY = this.y <= 0;
   }
 }
-
-
 
 class Enemy extends Character {
   constructor(x, y, h, w) {
@@ -221,8 +220,6 @@ let starsPerRow = () => {
   });
 };
 
-
-
 // This listens for key presses and sends the keys to your
 // Player.handleInput() method. You don't need to modify this.
 document.addEventListener('keyup', function(e) {
@@ -240,7 +237,6 @@ document.addEventListener('keyup', function(e) {
 characters.addEventListener('click', function(e) {
   player.sprite = e.target.getAttribute('src');
 });
-
 
 //start game
 start.addEventListener('click', function() {
